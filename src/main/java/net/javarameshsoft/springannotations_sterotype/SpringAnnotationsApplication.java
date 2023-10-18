@@ -66,11 +66,11 @@ o/p:
 EagerLoader ..
 SingleTonBean..
 Initialization Logic
-2023-09-20T15:20:43.020+05:30  INFO 48517 --- [           main] n.j.s.SpringAnnotationsApplication       : Started SpringAnnotationsApplication in 0.675 seconds (process running for 0.879)
+2023-10-18T18:11:44.566+05:30  INFO 4796 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2023-10-18T18:11:44.576+05:30  INFO 4796 --- [           main] n.j.s.SpringAnnotationsApplication       : Started SpringAnnotationsApplication in 2.883 seconds (process running for 3.315)
 gmail.com
 rameshbalagoni128@gmail.com
 secret
 Spring Boot App
 Spring Boot App Description
-Destruction Logic
 */
